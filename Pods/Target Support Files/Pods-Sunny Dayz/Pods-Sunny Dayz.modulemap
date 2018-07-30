@@ -1,0 +1,6 @@
+framework module Pods_Sunny_Dayz {
+  umbrella header "Pods-Sunny Dayz-umbrella.h"
+
+  export *
+  module * { export * }
+}
